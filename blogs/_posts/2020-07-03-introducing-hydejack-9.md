@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Introducing Hydejack 9
+title: Intro to badminton
 image: /assets/img/blog/hydejack-9.jpg
 description: >
   Version 9 is the most complete version of Hydejack yet.
   Modernized design, big headlines, and big new features.
+tags: [blog,opencv]
 sitemap: false
 ---
 
