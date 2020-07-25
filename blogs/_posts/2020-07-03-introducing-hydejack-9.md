@@ -6,7 +6,7 @@ description: >
   Version 9 is the most complete version of Hydejack yet.
   Modernized design, big headlines, and big new features.
 tags: [blog,opencv]
-sitemap: false
+sitemap: true
 ---
 
 Version 9 is the most complete version of Hydejack yet.
