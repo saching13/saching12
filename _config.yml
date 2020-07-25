@@ -55,8 +55,8 @@ menu:
     url:               /blogs/
   - title:             OpenCV
     url:               /opencv/
-  - title:             Example
-    url:               /example/
+  # - title:             Example
+  #   url:               /example/
   - title:             Documentation
     url:               /docs/
   - title:             About
