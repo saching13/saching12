@@ -3,7 +3,7 @@ Code used for embedding Gumroad on the Hydejack Site.
 Left here for reference, feel free to delete.
 -->
 <link rel="dns-prefetch" href="https://assets.gumroad.com">
-<script type="module">
+{% comment %} <script type="module">
   let p;
   const promisify = f => x => new Promise(r => f(x).addEventListener('load', r));
   const loadJS = promisify(window.loadJS);
@@ -46,4 +46,4 @@ Left here for reference, feel free to delete.
     }, { rootMargin: '300px' });
     document.querySelectorAll('.gumroad-button').forEach(el => io.observe(el));
   });
-</script>
+</script> {% endcomment %}
