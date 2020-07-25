@@ -8,10 +8,11 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    I am a grad student.
-    
-    Open `_data/authors.yml` to edit this text.
-
+    I am a Computer Vision / Perception Egnineer who firmly believes in bring order to the chaos of 
+    daily life or help you dive deep into a dream world by exploiting vision.
+  
+  # I am currently making use of my
+  # Open `_data/authors.yml` to edit this text.
   # This photo will be used in the about section
   picture:
     path:            https://placehold.it/128x128
@@ -26,7 +27,7 @@ author1:
   social:
     twitter:         GuruswamySachin
     github:          saching13
-    # email:           <mail@domain.tld>
+    email:           sachin.guruswamy@gmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
